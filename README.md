@@ -30,3 +30,13 @@ gcc 2208107010022_Simple_Sorting.c -o 2208107010022_Simple_Sorting
 ### 7. Masukkan jumlah angka yang ingin disorting. 1 <= angka <= 1000000
 
 ### 8. Program selesai. File sorted.txt (file yang menampung hasil angka setelah disorting) terbuat.
+
+
+
+
+## Link Video Demo
+
+Berikut adalah link video langkah-langkah untuk menjalankan program:
+```
+https://youtu.be/BpHqzAduE6U?si=ckguW_hIbhNkvnvF
+```
